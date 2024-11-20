@@ -1,3 +1,5 @@
+# commits
+
 | Tipo       | Descrição                             | Exemplo de Commit                              |
 |------------|---------------------------------------|------------------------------------------------|
 | `feat` 🎉  | Adição de nova funcionalidade         | `feat(login) 🎉: adicionar validação de senha`  |
@@ -11,8 +13,6 @@
 | `ci` ⚙️    | Alterações no pipeline de CI/CD       | `ci(github-actions) ⚙️: corrigir workflow`      |
 | `revert` ⏪ | Reverter um commit anterior           | `revert ⏪: reverter mudança na API`             |
 | `build` 🏗️ | Alterações no sistema de build        | `build(webpack) 🏗️: configurar nova regra`     |
-
-# commits
 
 ## Descrição
 
