@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-completed-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # commits
 
 | Tipo       | Descrição                             | Exemplo de Commit                              |
