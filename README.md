@@ -2,6 +2,8 @@
 
 # commits
 
+Este repositório foi criado para demonstrar a importância e as vantagens de adotar Commits Semânticos (Semantic Commit Messages) em seus projetos de desenvolvimento. Os Commits Semânticos são uma convenção que traz mais clareza e consistência ao histórico de versões do código, facilitando a colaboração em equipe e a manutenção do projeto ao longo do tempo.
+
 | Tipo       | Descrição                             | Exemplo de Commit                              |
 |------------|---------------------------------------|------------------------------------------------|
 | `feat` 🎉  | Adição de nova funcionalidade         | `feat(login) 🎉: adicionar validação de senha`  |
@@ -16,12 +18,10 @@
 | `revert` ⏪ | Reverter um commit anterior           | `revert ⏪: reverter mudança na API`             |
 | `build` 🏗️ | Alterações no sistema de build        | `build(webpack) 🏗️: configurar nova regra`     |
 
-## Descrição
-
-Este repositório foi criado para demonstrar a importância e as vantagens de adotar Commits Semânticos (Semantic Commit Messages) em seus projetos de desenvolvimento. Os Commits Semânticos são uma convenção que traz mais clareza e consistência ao histórico de versões do código, facilitando a colaboração em equipe e a manutenção do projeto ao longo do tempo.
-
 ### Clone o repositório
 
 ```bash
 git clone https://github.com/Hugolelis/commits.git
+````
+
 
