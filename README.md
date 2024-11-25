@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-completed-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-# commits
-
+## commits
+### Descrição
 Este repositório foi criado para demonstrar a importância e as vantagens de adotar Commits Semânticos (Semantic Commit Messages) em seus projetos de desenvolvimento. Os Commits Semânticos são uma convenção que traz mais clareza e consistência ao histórico de versões do código, facilitando a colaboração em equipe e a manutenção do projeto ao longo do tempo.
 
 | Tipo       | Descrição                             | Exemplo de Commit                              |
