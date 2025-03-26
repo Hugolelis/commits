@@ -1,27 +1,24 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-completed-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## commits
-### Descrição
-Este repositório foi criado para demonstrar a importância e as vantagens de adotar Commits Semânticos (Semantic Commit Messages) em seus projetos de desenvolvimento. Os Commits Semânticos são uma convenção que traz mais clareza e consistência ao histórico de versões do código, facilitando a colaboração em equipe e a manutenção do projeto ao longo do tempo.
+### Description
+This repository was created to demonstrate the importance and advantages of adopting Semantic Commit Messages in your development projects. Semantic Commits are a convention that brings more clarity and consistency to the version history of the code, making team collaboration and project maintenance easier over time.
 
-| Tipo       | Descrição                             | Exemplo de Commit                              |
-|------------|---------------------------------------|------------------------------------------------|
-| `feat` 🎉  | Adição de nova funcionalidade         | `feat(login) 🎉: adicionar validação de senha`  |
-| `fix` 🐛   | Correção de bug                       | `fix(api) 🐛: corrigir erro 404 na busca`       |
-| `refactor` ♻️| Refatoração sem mudar funcionalidade  | `refactor(modal) ♻️: simplificar lógica`        |
-| `style` 💅  | Alterações de estilo (CSS, formatação)| `style(css) 💅: ajustar espaçamento no footer`  |
-| `chore` 🔧  | Manutenção e configuração             | `chore(deps) 🔧: atualizar dependências`        |
-| `test` 🧪  | Adição ou ajuste de testes            | `test(api) 🧪: adicionar testes para erro 404`  |
-| `docs` 📚  | Alterações na documentação            | `docs(readme) 📚: atualizar instruções`         |
-| `perf` 🚀  | Melhorias de desempenho               | `perf(form) 🚀: otimizar validação`             |
-| `ci` ⚙️    | Alterações no pipeline de CI/CD       | `ci(github-actions) ⚙️: corrigir workflow`      |
-| `revert` ⏪ | Reverter um commit anterior           | `revert ⏪: reverter mudança na API`             |
-| `build` 🏗️ | Alterações no sistema de build        | `build(webpack) 🏗️: configurar nova regra`     |
+| Type       | Description                           | Commit Example                                   |
+|------------|---------------------------------------|--------------------------------------------------|
+| feat 🎉  | Adds a new feature                    | feat(login) 🎉: add password validation         |
+| fix 🐛   | Bug fix                               | fix(api) 🐛: fix 404 error in search           |
+| refactor ♻️| Code refactoring without changing functionality | refactor(modal) ♻️: simplify logic        |
+| style 💅  | Style changes (CSS, formatting)     | style(css) 💅: adjust footer spacing          |
+| chore 🔧  | Maintenance and configuration       | chore(deps) 🔧: update dependencies           |
+| test 🧪  | Adds or adjusts tests                | test(api) 🧪: add tests for 404 error         |
+| docs 📚  | Documentation updates                | docs(readme) 📚: update instructions          |
+| perf 🚀  | Performance improvements             | perf(form) 🚀: optimize validation            |
+| ci ⚙️    | Changes to the CI/CD pipeline       | ci(github-actions) ⚙️: fix workflow          |
+| revert ⏪ | Reverts a previous commit           | revert ⏪: revert API changes                 |
+| build 🏗️ | Changes to the build system         | build(webpack) 🏗️: configure new rule        |
 
-### Clone o repositório
+### Clone the repository
 
 ```bash
 git clone https://github.com/Hugolelis/commits.git
-````
-
-
