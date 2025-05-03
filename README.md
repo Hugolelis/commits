@@ -1,8 +1,11 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-completed-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## commits
+# 📦commits
+
 ### Description
 This repository was created to demonstrate the importance and advantages of adopting Semantic Commit Messages in your development projects. Semantic Commits are a convention that brings more clarity and consistency to the version history of the code, making team collaboration and project maintenance easier over time.
+
+---
 
 | Type       | Description                           | Commit Example                                   |
 |------------|---------------------------------------|--------------------------------------------------|
