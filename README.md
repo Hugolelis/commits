@@ -23,5 +23,7 @@ This repository was created to demonstrate the importance and advantages of adop
 
 ### Clone the repository
 
+---
+
 ```bash
 git clone https://github.com/Hugolelis/commits.git
