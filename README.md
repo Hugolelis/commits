@@ -1,8 +1,12 @@
-![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-completed-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 # 📦commits
 
-### Description
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-completed-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+> Semantic Commit Messages.
+
+---
+
+### 📚 About
 This repository was created to demonstrate the importance and advantages of adopting Semantic Commit Messages in your development projects. Semantic Commits are a convention that brings more clarity and consistency to the version history of the code, making team collaboration and project maintenance easier over time.
 
 ---
@@ -21,9 +25,10 @@ This repository was created to demonstrate the importance and advantages of adop
 | revert ⏪ | Reverts a previous commit           | revert ⏪: revert API changes                 |
 | build 🏗️ | Changes to the build system         | build(webpack) 🏗️: configure new rule        |
 
-### Clone the repository
-
 ---
+
+## 🖥️ Clone the repository
 
 ```bash
 git clone https://github.com/Hugolelis/commits.git
+```
