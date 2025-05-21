@@ -10,6 +10,7 @@
 This repository was created to demonstrate the importance and advantages of adopting Semantic Commit Messages in your development projects. Semantic Commits are a convention that brings more clarity and consistency to the version history of the code, making team collaboration and project maintenance easier over time.
 
 ---
+## 📝 Table Commits
 
 | Type       | Description                           | Commit Example                                   |
 |------------|---------------------------------------|--------------------------------------------------|
